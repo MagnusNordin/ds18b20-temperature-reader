@@ -1,0 +1,29 @@
+{
+  "name": "ds18b20-temperature-reader",
+  "version": "0.1.0",
+  "dependencies": {
+    "node-fs": "^0.1.7",
+    "underscore": "^1.8.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MagnusNordin/ds18b20-temperature-reader.git"
+  },
+  "description": "Driver for reading the temperature from a DS18B20 sensor. [Product](https://www.adafruit.com/products/381)",
+  "bugs": {
+    "url": "https://github.com/MagnusNordin/ds18b20-temperature-reader/issues"
+  },
+  "homepage": "https://github.com/MagnusNordin/ds18b20-temperature-reader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "temperature",
+    "sensor",
+    "ds18b20",
+    "adafruit"
+  ],
+  "author": "Magnus Nordin <magnus.nordin@gmail.com>",
+  "license": "MIT"
+}
